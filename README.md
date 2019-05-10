@@ -15,6 +15,7 @@ Fastjson is a Java library that can be used to convert Java Objects into their J
  * Extensive support of Java Generics
  * Allow custom representations for objects
  * Support arbitrarily complex objects (with deep inheritance hierarchies and extensive use of generic types)
+ * Add additional goal here.
 
 ![fastjson](logo.jpg "fastjson")
 
